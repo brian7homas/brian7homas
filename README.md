@@ -32,5 +32,5 @@
 
 <p>&nbsp;</p>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b98a55ec-55a8-4a5a-b61b-25549fd750b8/1b37720d-1ca4-42bc-afdc-e323d84adf05.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018d3c29-62c7-4848-8599-04195f85528b/b0ffd186-3bb4-4387-8ee5-884835344a0e.png" /></a>
 
