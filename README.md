@@ -28,9 +28,9 @@
 <div align="center" style="display:flex; max-width: 50%">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brian7homas&show_icons=true&locale=en&layout=compact" alt="joyreacher" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=brian7homas&show_icons=true&locale=en" alt="joyreacher" />
+  
 </div>
 
 <p>&nbsp;</p>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018d3c29-62c7-4848-8599-04195f85528b/b0ffd186-3bb4-4387-8ee5-884835344a0e.png" /></a>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b98a55ec-55a8-4a5a-b61b-25549fd750b8/d0617448-9ff2-4b77-bc2f-ae8d9c9373ce.png" /></a>
